@@ -1,0 +1,22 @@
+{
+  "name": "Lanches & Cia — Cardápio Digital",
+  "short_name": "Lanches & Cia",
+  "description": "Cardápio digital com pedidos rápidos via WhatsApp.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF6F0",
+  "theme_color": "#C8232C",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/imagens/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/imagens/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
