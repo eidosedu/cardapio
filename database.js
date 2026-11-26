@@ -1,7 +1,7 @@
 const MENU_CONFIG = {
   storeName: "Lanches & Cia",
   tagline: "Sabor de verdade, feito na hora",
-  whatsappNumber: "5575988165288",
+  whatsappNumber: "5575982791916",
   pixKey: "(75) 9 8816-5288",
   imageBasePath: "assets/imagens/"
 };
